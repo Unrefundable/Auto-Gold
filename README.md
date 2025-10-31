@@ -13,5 +13,5 @@
 </p>
 
 ```lua
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Unrefundable/Auto-Mojo/refs/heads/main/Script.luau'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Unrefundable/Auto-Gold/refs/heads/main/Script.luau'))()
 ```
